@@ -1,0 +1,13 @@
+<html>
+<body>
+
+{% for idea in ideas %}
+	{{idea.datetime.date|date:"d.m.Y"}} - {{idea.datetime.time}} | <b>{{idea.title}}</b>
+	{{idea.content}}
+	<i>({{idea.source}})</i>
+	<br>
+	<br>
+{% endfor %} 
+
+</body>
+</html>
