@@ -1,5 +1,5 @@
 import markdown
-from markdown.extensions.toc import TocExtension
+from toc import TocExtension
 from markdown_include.include import MarkdownInclude
 
 
