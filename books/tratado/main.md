@@ -2,7 +2,6 @@
 
 [TOC]
 
-
 {!hermeneutica.md!}
 
 {!apofantica.md!}
