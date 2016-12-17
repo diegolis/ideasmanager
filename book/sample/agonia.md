@@ -1,6 +1,8 @@
 # Agonía
 
-Como vimos en el capítulo [[INTRO]]
+Como vimos en el [capítulo #](#conclusion)
+
+sdfsss
 
 1. sdkflsdkfsdf
 2. dsfdfgdf
